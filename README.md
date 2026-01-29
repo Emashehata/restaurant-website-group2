@@ -23,4 +23,3 @@ This repository is a **final test project** for the GitHub version control cours
 - Practice **Pull Request reviews** and **code collaboration**
 - Learn **GitHub Actions** for CI/CD
 
-## 📁 Project Structure
